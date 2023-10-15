@@ -71,8 +71,11 @@
 ---
 
 ### Решение 1
-
+https://github.com/znak72/git
+---
 ### Решение 2
-
+https://github.com/znak72/git
+---
 ### Решение 3
 
+---

@@ -71,12 +71,11 @@
 ---
 
 ### Решение 1
-https://github.com/znak72/git
+https://github.com/znak72/git/blob/main/README.md
 ---
 ### Решение 2
-https://github.com/znak72/git
+https://github.com/znak72/git/blob/main/.gitignore
 ---
 ### Решение 3
-https://github.com/znak72/8-01/network
-Как то я не понял как это делать 
+https://github.com/znak72/git/network
 ---

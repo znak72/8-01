@@ -77,5 +77,5 @@ https://github.com/znak72/git/blob/main/README.md
 https://github.com/znak72/git/blob/main/.gitignore
 ---
 ### Решение 3
-https://github.com/znak72/git/network
+https://github.com/znak72/git1/network
 ---
